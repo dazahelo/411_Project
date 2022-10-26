@@ -1,0 +1,1 @@
+As a logged in user, the user would be able to edit their profile, many information such as name, email, phone number are able to be edited, on this page the user would be able to add a market as a favorite market that way is easier for them to see the stocks that they are interested in.
