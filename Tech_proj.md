@@ -1,1 +1,1 @@
-
+Two technology stacks we have are ajax and flask. The reason our team chooses the flask over other packages is because flask is a microframework so it is easy to implement and fits a light application which our project is, also since Flask uses python it is easier to learn how to use it. For ajax, the advantage is that it allows web pages to be updated asynchronously by exchanging data with a web server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. 
