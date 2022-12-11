@@ -1,0 +1,1 @@
+As a logged in user I want to be able to predict the price of a stock. The user would first have to create a stock, once this  process is complete the user would be able to put the name of the stock and then click the predict option, when this happens the user would be able to see the price of the stock on that day and a predicted amount for the next day.
