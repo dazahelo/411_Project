@@ -1,0 +1,1 @@
+As a logged in user I want to add a stock. The user would be able to put the name of the stock and create it,this way the stock would be shown to the user with the price for this current day, then the user would be able to delete the stock, update it, or predict the price of the stock for the next day.
