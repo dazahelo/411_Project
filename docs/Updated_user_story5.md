@@ -1,1 +1,1 @@
-After a user create a stock with a certain amount of share, they can update the stock and the newest profit earn from the stock will appear on the chart. Besides that, the total revenue is shown at the bottom of the chart as well.
+After I create a stock with a certain amount of share, I can update the stock and the newest profit earn from the stock will appear on the chart. Besides that, the total revenue is shown at the bottom of the chart as well.
